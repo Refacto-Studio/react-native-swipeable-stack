@@ -23,7 +23,6 @@ export function useSwipeAnimation({
   translateY,
   screenWidth,
   maxRotation,
-  overlayConfig,
 }: UseSwipeAnimationOptions) {
   /**
    * Animated style for the card

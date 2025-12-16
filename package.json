@@ -31,7 +31,10 @@
     "clean": "del-cli lib",
     "typescript": "tsc --noEmit",
     "lint": "eslint \"src/**/*.{ts,tsx}\"",
-    "test": "jest"
+    "test": "jest",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
   "keywords": [
     "react-native",
@@ -95,5 +98,8 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "vitepress": "^1.6.4"
   }
 }
