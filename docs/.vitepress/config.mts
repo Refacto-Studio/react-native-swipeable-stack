@@ -4,15 +4,18 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "React Native Swipeable Stack",
   description: "A performant, customizable Tinder-like swipeable card stack for React Native. Built with Reanimated 3+ and Gesture Handler 2+ for silky-smooth 60fps animations.",
+  base: '/react-native-swipeable-stack/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Guide', link: '/guide/getting-started' },
       { text: 'API', link: '/api/' },
+      { text: 'Roadmap', link: '/roadmap' },
       { 
         text: 'v1.0.0', 
         items: [
-          { text: 'Changelog', link: 'https://github.com/Refacto-Studio/react-native-swipeable-stack/releases' }
+          { text: 'Changelog', link: 'https://github.com/Refacto-Studio/react-native-swipeable-stack/releases' },
+          { text: 'npm', link: 'https://www.npmjs.com/package/react-native-swipeable-stack' }
         ]
       }
     ],
