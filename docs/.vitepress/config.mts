@@ -11,10 +11,11 @@ export default defineConfig({
       { text: 'Guide', link: '/guide/getting-started' },
       { text: 'API', link: '/api/' },
       { text: 'Roadmap', link: '/roadmap' },
+      { text: 'Changelog', link: '/changelog' },
       { 
         text: 'v1.0.0', 
         items: [
-          { text: 'Changelog', link: 'https://github.com/Refacto-Studio/react-native-swipeable-stack/releases' },
+          { text: 'GitHub', link: 'https://github.com/Refacto-Studio/react-native-swipeable-stack' },
           { text: 'npm', link: 'https://www.npmjs.com/package/react-native-swipeable-stack' }
         ]
       }
