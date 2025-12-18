@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.1 (2025-12-18)
+
+### Added
+
+* fix: update version ([fd5ed79](https://github.com/Refacto-Studio/react-native-swipeable-stack/commit/fd5ed7973c69100e4a2b3c4287e695f334bdb144))
+
+
+### Bug Fixes
+
+* fix: update version ([fd5ed79](https://github.com/Refacto-Studio/react-native-swipeable-stack/commit/fd5ed7973c69100e4a2b3c4287e695f334bdb144))
+
 ## 1.0.0 (2025-12-17)
 
 

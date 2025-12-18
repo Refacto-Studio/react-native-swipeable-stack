@@ -1,6 +1,6 @@
 {
   "name": "react-native-swipeable-stack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A performant, customizable Tinder-like swipeable card stack for React Native with Reanimated 3+ and Gesture Handler",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
