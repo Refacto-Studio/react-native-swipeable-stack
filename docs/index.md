@@ -38,6 +38,27 @@ features:
   - icon: 📦
     title: Fully Typed
     details: Complete TypeScript support with exported types for all props and callbacks.
+head:
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "React Native Swipeable Stack",
+        "description": "Performant, customizable Tinder-like swipeable card stack for React Native built with Reanimated 3+.",
+        "applicationCategory": "DeveloperApplication",
+        "operatingSystem": "iOS, Android",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "Refacto Studio"
+        }
+      }
 ---
 
 <style>
