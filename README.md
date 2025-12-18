@@ -8,6 +8,10 @@
 
 A performant, customizable **Tinder-like swipeable card stack** for React Native. Built with **Reanimated 3+** and **Gesture Handler 2+** for silky-smooth 60fps animations.
 
+<p align="center">
+  <img src="video/demo.gif" alt="React Native Swipeable Stack Demo" width="300" />
+</p>
+
 > **[📖 Read the Documentation](https://refacto-studio.github.io/react-native-swipeable-stack/)**
 
 ## ✨ Features

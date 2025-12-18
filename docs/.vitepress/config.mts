@@ -5,6 +5,20 @@ export default defineConfig({
   title: "React Native Swipeable Stack",
   description: "A performant, customizable Tinder-like swipeable card stack for React Native. Built with Reanimated 3+ and Gesture Handler 2+ for silky-smooth 60fps animations.",
   base: '/react-native-swipeable-stack/',
+  head: [
+    ['meta', { name: 'keywords', content: 'react-native, swipeable-stack, tinder-cards, reanimated, gesture-handler, react-native-component, swipe-cards' }],
+    ['meta', { name: 'author', content: 'Refacto Studio' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'React Native Swipeable Stack' }],
+    ['meta', { property: 'og:description', content: 'Performant, customizable Tinder-like swipeable card stack for React Native.' }],
+    ['meta', { property: 'og:image', content: 'https://refacto-studio.github.io/react-native-swipeable-stack/demo.gif' }],
+    ['meta', { property: 'og:url', content: 'https://refacto-studio.github.io/react-native-swipeable-stack/' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'React Native Swipeable Stack' }],
+    ['meta', { name: 'twitter:description', content: 'Performant, customizable Tinder-like swipeable card stack for React Native.' }],
+    ['meta', { name: 'twitter:image', content: 'https://refacto-studio.github.io/react-native-swipeable-stack/demo.gif' }],
+    ['link', { rel: 'icon', href: '/react-native-swipeable-stack/favicon.ico' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -54,7 +68,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024 Refacto Studio'
+      copyright: 'Copyright © 2025 Refacto Studio'
     },
 
     search: {

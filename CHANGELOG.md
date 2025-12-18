@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file.
 
 * correct TypeScript declaration file paths in package.json ([bd4ecaf](https://github.com/Refacto-Studio/react-native-swipeable-stack/commit/bd4ecafe843c5af6f0257929711c8b578e6e08fa))
 
-## [1.0.0] - 2024-12-16
+## [1.0.0] - 2025-12-16
 
 ### Added
 - Initial release

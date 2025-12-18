@@ -5,6 +5,9 @@ hero:
   name: "React Native Swipeable Stack"
   text: "Tinder-like Cards Made Easy"
   tagline: Performant, customizable swipeable card stack with Reanimated 3+ and Gesture Handler 2+
+  image:
+    src: /demo.gif
+    alt: React Native Swipeable Stack Demo
   actions:
     - theme: brand
       text: Get Started
@@ -59,6 +62,10 @@ features:
   justify-content: center;
   gap: 8px;
   margin-top: 16px;
+}
+.VPImage.image-src {
+  border-radius: 24px;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.2);
 }
 </style>
 
