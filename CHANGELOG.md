@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1](https://github.com/Refacto-Studio/react-native-swipeable-stack/compare/v1.0.0...v1.0.1) (2025-12-18)
+
+
+### Bug Fixes
+
+* update package version to 1.0.1 ([94c0270](https://github.com/Refacto-Studio/react-native-swipeable-stack/commit/94c027058e8e7b9e2d783c3ceed21e606b46f0c0))
+
 ## 1.0.1 (2025-12-18)
 
 ### Added
